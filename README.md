@@ -35,5 +35,5 @@
 
 ---
 
-> 🧭 _"The audacity for greatness is mans greatest gift."_  
-> — X
+> 🚀 _"The audacity for greatness is mans greatest gift."_  
+> 🧑‍🚀 — Xavier Amico
