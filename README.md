@@ -1,8 +1,8 @@
 # 👋 Hi there, I’m Xavier
 
-🎓 I'm a Computer Science student at the University of Texas Rio Grande Valley.
-💻 I specialize in software development, game scripting, and full-stack web applications.  
-🧠 I love designing systems — from custom bots to game mechanics to CRUD applications.
+- 🎓 I'm a Computer Science student at the University of Texas Rio Grande Valley. 
+- 💻 I specialize in software development, game scripting, and full-stack web applications.  
+- 🧠 I love designing systems — from custom bots to game mechanics to CRUD applications.
 
 ---
 
