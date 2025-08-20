@@ -2,7 +2,7 @@
 
 - 🎓 I'm a Computer Science student at the University of Texas Rio Grande Valley. 
 - 💻 I specialize in software development, game scripting, and full-stack web applications.  
-- 🧠 I love designing systems — from custom bots to game mechanics to CRUD applications.
+- 🧠 I love designing systems, from custom bots to game mechanics to CRUD applications.
 
 ---
 
@@ -17,7 +17,7 @@
 ## 🚧 Projects I’m Working On
 
 - 🎮 A Roblox game which requires use of databases for saving data, as well as Lua scripting.
-- 🤖 Pearl Bot — a feature-rich Discord bot with PostgreSQL persistence
+- 🤖 Pearl Bot: a feature-rich Discord bot with PostgreSQL persistence
 
 ---
 
