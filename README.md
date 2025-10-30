@@ -14,13 +14,6 @@
 
 ---
 
-## 🚧 Projects I’m Working On
-
-- 🎮 A Roblox game which requires use of databases for saving data, as well as Lua scripting.
-- 🤖 Pearl Bot: a feature-rich Discord bot with PostgreSQL persistence
-
----
-
 ## 📈 GitHub Stats
 
 ![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=XavierAmico&show_icons=true&theme=radical&hide=prs)
@@ -31,7 +24,6 @@
 
 - Email: [christianxamico@gmail.com](mailto:christianxamico@gmail.com)
 - LinkedIn: [linkedin.com/in/xavieramico](https://www.linkedin.com/in/xavier-amico-5a21b0292/)
-- Portfolio: [coming soon!]
 
 ---
 
