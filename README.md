@@ -9,7 +9,7 @@
 ## 🧰 Tech Stack & Tools
 
 - **Languages:** Python, C++, C#, Java, Lua, SQL
-- **Tools & Frameworks:** Git, PyCharm, Unity, Roblox Studio, Node.js, PostgreSQL, Godot
+- **Tools & Frameworks:** Git, PyCharm, IntelliJ, Roblox Studio, Node.js, PostgreSQL, Godot
 - **Currently Learning:** Docker, CI/CD workflows, AI integration
 
 ---
