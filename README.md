@@ -14,12 +14,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=XavierAmico&show_icons=true&theme=radical&hide=prs)
-
----
-
 ## 📬 Get in Touch
 
 - Email: [christianxamico@gmail.com](mailto:christianxamico@gmail.com)
