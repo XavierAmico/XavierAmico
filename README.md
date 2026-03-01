@@ -1,25 +1,45 @@
-# 👋 Hi there, I’m Xavier
+# 👋 Hi, I'm Xavier Amico
 
-- 🎓 I'm a Computer Science student at the University of Texas Rio Grande Valley. 
-- 💻 I specialize in software development, game scripting, and full-stack web applications.  
-- 🧠 I love designing systems, from custom bots to game mechanics to CRUD applications.
+🎓 Computer Science Student  
+🏫 The University of Texas Rio Grande Valley  
+📊 GPA: 3.95  
 
----
-
-## 🧰 Tech Stack & Tools
-
-- **Languages:** Python, C++, C#, Java, Lua, SQL
-- **Tools & Frameworks:** Git, PyCharm, IntelliJ, Roblox Studio, Node.js, PostgreSQL, Godot
-- **Currently Learning:** Docker, CI/CD workflows, AI integration
+🎯 Primary Interest: Theoretical Computer Science and Game Development
 
 ---
 
-## 📬 Get in Touch
+## 🔬 Research Interests
 
-- Email: [christianxamico@gmail.com](mailto:christianxamico@gmail.com)
-- LinkedIn: [linkedin.com/in/xavieramico](https://www.linkedin.com/in/xavier-amico-5a21b0292/)
+- ♟ Foundations of Decision-Making Under Adversarial Conditions
+- 📈 Optimization Theory
+- ⏱ Algorithmic Complexity (Time and Space Analysis)
+- 🤖 Reinforcement Learning
 
 ---
 
-> 🚀 _"The audacity for greatness is mans greatest gift."_  
-> 🧑‍🚀 — Xavier Amico
+## 🧮 Mathematical & Technical Background
+
+### 📚 Core Coursework
+- Data Structures & Algorithms
+- Discrete Mathematics
+- Calculus I & II
+- Assembly Language
+- Linux/Unix Systems
+
+### 💻 Programming Languages
+Java, Python, C++, C#, SQL
+
+---
+
+## 🛠 Selected Technical Work
+
+- 🎮 Designed modular gameplay state systems under strict architectural constraints
+- 🗄 Implemented relational database schemas emphasizing normalization and structural clarity
+- 🔐 Built scalable backend systems with role-based access control and persistent state
+
+---
+
+## 📫 Contact
+
+💼 LinkedIn: https://www.linkedin.com/in/xavier-amico/  
+📧 Email: christian.amico01@utrgv.edu
