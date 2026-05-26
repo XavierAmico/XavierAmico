@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student  
 🏫 The University of Texas Rio Grande Valley  
-📊 GPA: 3.95  
+📊 GPA: 3.92  
 
 🎯 Primary Interest: Theoretical Computer Science and Game Development
 
@@ -27,7 +27,7 @@
 - Linux/Unix Systems
 
 ### 💻 Programming Languages
-Java, Python, C++, C#, SQL
+Java, Python, C++, C#, SQL, Lua
 
 ---
 
